@@ -1,5 +1,5 @@
-import my.advent2020.day24part2.day24_2
+import my.advent2020.day25part1.day25_1
 
 fun main() {
-    day24_2("24.txt")
+    day25_1("25.txt")
 }
